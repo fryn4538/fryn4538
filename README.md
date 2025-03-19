@@ -1,5 +1,5 @@
 ### Hello, I'm Fredrik.
-### I'm studying the Master's Programme in Computer and Information Engineering at Uppsala University
+### Working as a Software Developer at Nasdaq
 
 <!--
 **fryn4538/fryn4538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
