@@ -1,6 +1,6 @@
 ### Hello, I'm Fredrik.
 ### Working as a Software Developer at Nasdaq
-
+## Developing the INET Nordics Trading Platform
 <!--
 **fryn4538/fryn4538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
